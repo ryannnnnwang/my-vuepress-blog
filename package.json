@@ -1,0 +1,24 @@
+{
+  "name": "my-vuepress-blog",
+  "version": "1.0.0",
+  "description": "使用VuePress搭建一个博客",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs --temp .temp",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryannnnnwang/my-vuepress-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryannnnnwang/my-vuepress-blog/issues"
+  },
+  "homepage": "https://github.com/ryannnnnwang/my-vuepress-blog#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
